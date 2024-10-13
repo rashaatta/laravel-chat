@@ -1,7 +1,4 @@
-Here's a sample `README.md` file for your Laravel chat application project following the Pusher tutorial on building a chat app with Vue.js and Laravel:
-
-```markdown
-# Laravel Chat Application with Vue.js
+# Laravel Chat Application with Vue.js 
 
 This project is a simple real-time chat application built using Laravel and Vue.js, following the [Pusher tutorial](https://pusher.com/tutorials/how-to-build-a-chat-app-with-vue-js-and-laravel/). The app allows users to send and receive messages instantly, leveraging Pusher for real-time notifications.
 
@@ -107,6 +104,5 @@ Before you begin, ensure you have met the following requirements:
 ## Additional Configuration
 
 - **Pusher Account**: You’ll need to set up an account on [Pusher](https://pusher.com/) and create a new app to obtain your API keys.
- 
 
-# laravel-chat-app
+```
