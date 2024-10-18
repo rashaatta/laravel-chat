@@ -32,8 +32,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/rashaatta/laravel-chat-app.git
-   cd laravel-chat-app
+   git clone https://github.com/rashaatta/laravel-chat.git
+   cd laravel-chat
    ```
 
 2. **Install Composer Dependencies**:
